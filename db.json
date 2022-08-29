@@ -1,0 +1,34 @@
+{
+    "chats": [
+        {
+            "id": 1,
+            "name": "name",
+            "messages": [
+                {
+                    "id": 1,
+                    "message": "message"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "name",
+            "messages": [
+                {
+                    "id": 1,
+                    "message": "message"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "test3",
+            "messages": []
+        },
+        {
+            "id": 4,
+            "name": "test2",
+            "messages": []
+        }
+    ]
+}
